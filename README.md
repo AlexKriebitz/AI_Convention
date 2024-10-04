@@ -9,13 +9,13 @@ The convention aims to:
  <li>Inspire international dialogue on integrating human rights into a global AI framework.</li>
 
  <li>Address critical areas including:</li>
-    
+  <ul>  
  <li>Definitions of AI systems, AI lifecycle, and data</li>
 
  <li>Prohibited use cases of AI</li>
 
  <li>Domains crucial for human rights enjoyment</li>
-
+</ul>
  <li>Continue the existing tradition of embedding human rights as foundational principles of in international law, set by the Universal Declaration of Human Rights and the UN Charter</li>
 
  </ul>
