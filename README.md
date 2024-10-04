@@ -1,5 +1,6 @@
-The Institute for Ethics in Artificial Intelligence (IEAI) is pleased to announce the publication of a draft convention on AI, Data, and Human Rights on ArXiv. This milestone follows the successful International AI and Human Rights Summit held in Munich on July 16, 2024, co-organized with Globethics.
-Munich Convention on AI, Data and Human Rights
+The Institute for Ethics in Artificial Intelligence (IEAI) is pleased to announce the publication of a draft convention on AI, Data, and Human Rights on GitHub. This milestone follows the International AI and Human Rights Summit held in Munich on July 16, 2024, co-organized with Globethics.
+
+<strong>Munich Convention on AI, Data and Human Rights</strong>
 
 The draft, now referred to as the "Munich Convention on AI, Data and Human Rights," synthesizes insights from over 50 global experts who participated in the summit. By publishing on ArXiv, we acknowledge that this initiative has evolved beyond its origins and now belongs to the global community.
 
