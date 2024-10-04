@@ -20,9 +20,7 @@ The convention aims to:
 
  </ul>
 
-While not establishing a binding framework and not aiming to do so, the convention seeks to catalyze debate on concrete aspects that the international community must address.
+While <strong>not</strong> establishing a binding framework and not aiming to do so, the convention seeks to <strong>catalyze debate on concrete aspects that the international community must address</strong>.
 Next Steps
 
-We are now seeking feedback from organizations and individuals to refine and elevate the convention. Your input is crucial as we engage in further outreach activities. To provide your valuable feedback on the Munich Convention, please use the following form: [Insert feedback form link here]. Additionally, we are excited to announce that Alexander Kriebitz, a researcher at the IEAI, will represent our institute during Geneva Peace Week 2024, taking place from October 14 to 18, where further discussions on these vital topics will continue.
-
-Our ultimate goal is to pitch the convention to the UN Human Rights Council.
+We are now seeking feedback from organizations and individuals to refine and elevate the convention. Your input is crucial as we engage in further outreach activities. Our ultimate goal is to pitch the convention to the UN Human Rights Council.
