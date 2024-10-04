@@ -2,7 +2,8 @@ The Institute for Ethics in Artificial Intelligence (IEAI) is pleased to announc
 Munich Convention on AI, Data and Human Rights
 
 The draft, now referred to as the "Munich Convention on AI, Data and Human Rights," synthesizes insights from over 50 global experts who participated in the summit. By publishing on ArXiv, we acknowledge that this initiative has evolved beyond its origins and now belongs to the global community.
-Key Features
+
+<strong>Key Features</strong>
 
 The convention aims to:
 <ul>
@@ -21,6 +22,7 @@ The convention aims to:
  </ul>
 
 While <strong>not</strong> establishing a binding framework and not aiming to do so, the convention seeks to <strong>catalyze debate on concrete aspects that the international community must address</strong>.
-Next Steps
+
+<strong>Next Steps</strong>
 
 We are now seeking feedback from organizations and individuals to refine and elevate the convention. Your input is crucial as we engage in further outreach activities. Our ultimate goal is to pitch the convention to the UN Human Rights Council.
