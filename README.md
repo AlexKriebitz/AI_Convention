@@ -26,6 +26,6 @@ While <strong>not</strong> establishing a binding framework and not aiming to do
 
 <strong>Next Steps</strong>
 
-We are now seeking feedback from organizations and individuals to refine and elevate the convention. To provide your valuable feedback on the Munich Convention, please use the following <a href="[URL]https://docs.google.com/forms/d/e/1FAIpQLSeY9A0Ap91DaJ8q0L4wqkVxF-hVpmEZg67AKaTB8mV9LigfTQ/viewform?usp=sf_link">form</a>.
+We are now seeking feedback from organizations and individuals to refine and elevate the convention. To provide your valuable feedback on the Munich Convention, please use the following <a href="https://docs.google.com/forms/d/e/1FAIpQLSeY9A0Ap91DaJ8q0L4wqkVxF-hVpmEZg67AKaTB8mV9LigfTQ/viewform?usp=sf_link">form</a>.
 
 Your input is crucial as we engage in further outreach activities. Our ultimate goal is to pitch the convention to the UN Human Rights Council.
